@@ -16,3 +16,24 @@ git log // tp see you history [PRESS Q TO EXIT]
 git log 
 git log --oneline //commit id
 git log --graph //quite same as log
+
+
+git diff old id new id
+
+
+git checkput //index.html// *.txt
+
+git reset index.html //before add
+
+commit 1 commit 2 commit 3
+git reset [--soft] [commit-id]
+//--soft bring back before commit
+//--mixed bring back before add
+//--hard delete commit cache add go back to the latest commit then checkout the old file 
+
+
+git branch //show-branch
+git branch [master] is default
+
+git checkout -b [branch-name] //make or switch of exist
+git branch -d [branch-name] //delete
