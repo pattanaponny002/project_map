@@ -37,3 +37,5 @@ git branch [master] is default
 
 git checkout -b [branch-name] //make or switch of exist
 git branch -d [branch-name] //delete
+
+git checkout [branch-name] soem of them dont have cached it will switch to the latest file memory
