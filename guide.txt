@@ -10,9 +10,9 @@ git add *.txt
 git rm --cached *.txt / .index.htmlgit 
 
 git commit -m "history from you saving"
+
+
 git log // tp see you history [PRESS Q TO EXIT]
-
-
 git log 
-git log --oneline //showId
+git log --oneline //commit id
 git log --graph //quite same as log
