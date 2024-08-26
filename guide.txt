@@ -1,4 +1,13 @@
 git init 
+git add index.html
 git add .
-git add .
-git add .
+git add *.txt
+
+
+//everything in the caches
+
+
+git rm --cached *.txt / .index.htmlgit 
+
+git commit -m "history from you saving"
+git log // tp see you history [PRESS Q TO EXIT]
